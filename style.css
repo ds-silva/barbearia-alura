@@ -5,7 +5,7 @@ body {
 }
 
 header {
-	background: #BBBBBB;
+	background: #bbbbbb;
 	padding: 20px 0;
 }
 
@@ -183,7 +183,7 @@ nav a:hover {
 /*INÍCIO DO CSS DO FOOTER*/
 footer {
 	text-align: center;
-	background: url("bg.jpg");
+	background: url("assets/bg.jpg");
 	padding: 40px 0;
 }
 
